@@ -1,5 +1,8 @@
 # webfux-issue around error handler
 
+ref. https://jira.spring.io/browse/SPR-16231
+ref. https://github.com/spring-projects/spring-boot/issues/11168
+
 At first, run the spring-boot app.
 
     ./mvnw spring-boot:run
